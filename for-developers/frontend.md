@@ -7,5 +7,7 @@ ___
   - [API Endpoints](#api-endpoints)
 
 ## File Structure
+___
 
 ## API Endpoints
+___
