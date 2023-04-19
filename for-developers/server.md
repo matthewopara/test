@@ -4,11 +4,13 @@ ___
 - [My Friend Morgan](#my-friend-morgan)
 - [Server](#server)
   - [File Structure](#file-structure)
-  - [Setting the server URL](#setting-the-server-url)
+  - [API Endpoints](#api-endpoints)
 
 ## File Structure
 ___
 
-## Setting the server URL
+## API Endpoints
 ___
-The server URL used for development mode can be changed in <strong><code>frontend/src/util/serverInfo.js</code></strong> by setting the <strong><code>serverURL_dev</code></strong> variable.
+- [/exercise](/for-developers/api-endpoints/exercise.md)
+- [/submit](/for-developers/api-endpoints/submit.md)
+- [/session](/for-developers/api-endpoints/session.md)

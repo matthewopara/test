@@ -4,10 +4,13 @@ ___
 - [My Friend Morgan](#my-friend-morgan)
 - [Front-End](#front-end)
   - [File Structure](#file-structure)
-  - [API Endpoints](#api-endpoints)
+  - [Components](#components)
+  - [Page Breakdown](#page-breakdown)
 
 ## File Structure
 ___
 
-## API Endpoints
+## Components
 ___
+
+## Page Breakdown
