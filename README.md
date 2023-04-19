@@ -1,6 +1,6 @@
-# My Friend Morgan Documentation
+# My Friend Morgan
 ## Table of Contents
-- [My Friend Morgan Documentation](#my-friend-morgan-documentation)
+- [My Friend Morgan](#my-friend-morgan)
   - [Table of Contents](#table-of-contents)
   - [For Users](#for-users)
     - [Installation Steps](#installation-steps)
