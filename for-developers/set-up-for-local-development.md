@@ -1,3 +1,3 @@
 # My Friend Morgan
-# Set up local environment
+# Set up for local development
 ___
