@@ -1,6 +1,4 @@
 # My Friend Morgan
-[Github](https://github.com/ELC-Programmer/My-Frieng-Morgan)
-
 ## For Users
 - [Installation Steps](/for-users/installation-steps.md)
 - [Database Setup](/for-users/database-setup.md)
