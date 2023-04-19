@@ -1,5 +1,5 @@
 # My Friend Morgan
-# <p style="text-align: center;">Front-End</p>
+# Front-End
 ___
 - [My Friend Morgan](#my-friend-morgan)
 - [Front-End](#front-end)
