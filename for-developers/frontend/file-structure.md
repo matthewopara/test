@@ -1,2 +1,2 @@
 # My Friend Morgan
-# Front-End File Structure
+# File Structure (Front-End)
