@@ -1,6 +1,5 @@
 # My Friend Morgan
 # /exercise
-___
 
 Description blah blah blah<br>
 ## GET /session/get-sessions
@@ -27,8 +26,7 @@ Returns a list of all sessions belonging to a professor
             ],
             "surveyDone": true
         },
-    ]  
-___
+    ]
 
 ## GET /session/get-sessions
 Returns a list of all sessions belonging to a professor
