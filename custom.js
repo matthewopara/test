@@ -1,3 +1,3 @@
 document.getElementById("project-name").onclick = () => {
-    window.location.href = "";
+    window.location.href = "/test";
 }
