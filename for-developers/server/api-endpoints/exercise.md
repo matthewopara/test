@@ -1,8 +1,9 @@
 # My Friend Morgan
-# /exercise
+# /**exercise**
 
 Description blah blah blah<br>
-## GET /session/get-sessions
+
+## **GET /session/get-sessions**
 Returns a list of all sessions belonging to a professor
 
 ### Parameters
@@ -28,7 +29,7 @@ Returns a list of all sessions belonging to a professor
         },
     ]
 
-## GET /session/get-sessions
+## **GET /session/get-sessions**
 Returns a list of all sessions belonging to a professor
 
 ### Parameters
