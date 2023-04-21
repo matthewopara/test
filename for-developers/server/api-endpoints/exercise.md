@@ -1,4 +1,4 @@
-# [My Friend Morgan](/index.md)
+# My Friend Morgan
 # /**exercise**
 
 Description blah blah blah<br>
