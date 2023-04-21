@@ -1,2 +1,2 @@
 # My Friend Morgan
-# File Structure (Front-End)
+# **File Structure (Front-End)**

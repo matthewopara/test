@@ -1,2 +1,2 @@
 # My Friend Morgan
-# /submit
+# **/submit**

@@ -1,2 +1,2 @@
 # My Friend Morgan
-# Installation Steps
+# **Installation Steps**
