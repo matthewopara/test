@@ -1,25 +1,25 @@
 # My Friend Morgan
 # **File Structure (Front-End)**
 
-## src/components
+## src/components/
 All the custom made react components
 
-## src/images
+## src/images/
 Images used in the app
 
-## src/pages/admin
+## src/pages/admin/
 All the webpages used in the admin flow
 
-## src/pages/general
+## src/pages/general/
 Miscellaneous webpages that don't belong to a specific flow
 
-## src/pages/room
+## src/pages/room/
 All the webpages used in the room flow
 
-## src/pages/student
+## src/pages/student/
 All the webpages used in the student flow
 
-## src/util
+## src/util/
 Utility files.
 - API.js contains functions for calling the API endpoints from the server
 - serverInfo.js contains a function to get the server url
