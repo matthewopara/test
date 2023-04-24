@@ -99,7 +99,7 @@ Adds rooms to the session
 - building - Building Name
 - rooms - Array of room names to add to the session
 
-## **GET /session/available-rooms**
+## **GET /session/download-results**
 Downloads the exercise survey results and case scenario responses as tsv files in a zipped file, then deletes the session from the database
 
 ### Parameters
