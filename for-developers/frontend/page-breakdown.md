@@ -13,7 +13,7 @@
 ## Room Pages
 
 ## General Pages 
-- **Home.js* : This is the starting page for all administrators and teachers. Indisivuals can get to the Room sign in and the Admin Sign in page from here. 
+- **Home.js** : This is the starting page for all administrators and teachers. Indisivuals can get to the Room sign in and the Admin Sign in page from here. 
 - **Wait.js** : This is a default waiting page that can be used to display different messages. 
     - Pass in a string for the message prop to set the string. 
 
